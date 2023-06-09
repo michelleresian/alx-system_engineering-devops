@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent:betty  *
+chown vincent:betty  *
